@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutSystems.NssHMAC_SHA1</name>
+    </assembly>
+    <members>
+        <member name="M:OutSystems.NssHMAC_SHA1.CssHMAC_SHA1.MssHash(System.String@,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ssHashedStr"></param>
+            <param name="ssBaseStr"></param>
+            <param name="ssHMACKey"></param>
+        </member>
+        <member name="M:OutSystems.NssHMAC_SHA1.IssHMAC_SHA1.MssHash(System.String@,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ssHashedStr"></param>
+            <param name="ssBaseStr"></param>
+            <param name="ssHMACKey"></param>
+        </member>
+    </members>
+</doc>
